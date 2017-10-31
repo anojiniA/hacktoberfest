@@ -1,3 +1,8 @@
+#### Name: [Anojini Amaranathan](https://github.com/anojiniA)
+ - Place: Srilanka
+ - Bio: second year Software Engineering student
+ - GitHub: [anojiniA](https://github.com/anojiniA)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
